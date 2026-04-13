@@ -1,2 +1,2 @@
 # Validate
-a program that validates and email format using regular expression library and retrieves specific id of a YouTube video
+a program that validates an email format using regular expression library and retrieves the specific ID of a YouTube video
